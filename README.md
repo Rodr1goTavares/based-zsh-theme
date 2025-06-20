@@ -41,30 +41,6 @@ ZSH_THEME="based"
 source ~/.zshrc
 ```
 
-## Public IP Display
-
-The theme will automatically detect and display your current public IP address whenever you're connected to a VPS, VPN, or remote server.
-
-## Requirements
-
-* `curl` or `wget` installed (for fetching public IP)
-* ZSH installed
-* Oh My Zsh (or manual sourcing)
-
-## Optional: Manual IP Check Script
-
-If you want to manually check your public IP, you can use:
-
-```bash
-curl ifconfig.me
-```
-
-Or
-
-```bash
-wget -qO- ifconfig.me
-```
-
 ## License
 
 MIT License

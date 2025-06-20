@@ -10,7 +10,8 @@ A minimal and functional ZSH theme designed for developers and sysadmins who fre
 
 ## Preview
 
-![Theme Preview](./image.png)
+![Theme Preview](./images/image.png)
+![Theme Preview](./images/image1.png)
 
 ## Installation
 

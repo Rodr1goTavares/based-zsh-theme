@@ -15,10 +15,10 @@ A minimal and functional ZSH theme designed for developers and sysadmins who fre
 
 ## Installation
 
-### 1. Clone the repository
+### 1. Clone the repository or download on releases
 
 ```bash
-git clone https://github.com/yourusername/based-zsh-theme.git
+git clone https://github.com/Rodr1goTavares/based-zsh-theme
 ```
 
 ### 2. Move the theme file to your ZSH themes folder

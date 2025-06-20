@@ -1,5 +1,3 @@
-#![Preview](./image.png)
-
 # Based ZSH Theme
 
 A minimal and functional ZSH theme designed for developers and sysadmins who frequently work on remote servers, VPS, or VPNs. This theme prominently displays your current public IP when connected to a remote network, helping you stay aware of your connection status.

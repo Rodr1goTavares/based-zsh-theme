@@ -44,7 +44,7 @@ get_ip_address() {
 
 
 PROMPT='
-┌─《%F{blue} %~%f》  🪽⃤ 『%F{green} $(get_ip_address)%f』 $(git_prompt_info)
+┌─《%F{blue} %~%f》 λ 『%F{green} $(get_ip_address)%f』 $(git_prompt_info)
 └─%F{yellow} ❍ %f'
 
 RPROMPT='[%F{red}%?%f]'
